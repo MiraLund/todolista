@@ -1,0 +1,57 @@
+
+body {
+    font-family: 'Oswald', sans-serif;
+  }
+  
+  #container {
+    width: 420px;
+    background-color:rgb(180, 214, 244);
+    border-radius: 3px;
+    padding: 0px 15px 0px 15px;
+    margin: 10px auto;
+    border: 1px solid #ddd;
+  }
+  
+  h1 {
+    background-color: rgb(137, 157, 197);
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    color: black;
+    padding: 5px;
+  }
+  
+  ul {
+    list-style-type: square;
+    margin: 20px 0 20px 0;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+  }
+  
+  input[type=text] {
+    border: 1px solid #6b6868;
+    padding: 5px;
+    width: 300px;
+    font-size: 15px;
+    font-family:'Times New Roman', Times, serif;
+  }
+  
+  button {
+    border: 1px solid #ccc;
+    margin-left: 15px;
+    padding: 5px 15px;
+    font-size: 15px;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  .delete {
+    cursor: pointer;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+  }
+
+  .space {
+    margin-right: 10px;
+    margin-left: 10px;
+  }
